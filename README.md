@@ -73,10 +73,13 @@ build/windows/x64/runner/Release/
 ## Screenshots
 
 ### Projects View
-<img width="800" src="https://github.com/user-attachments/assets/placeholder-projects-view" alt="Projects View" />
+<img width="800" src="assets/Project Backup Tools 1.png" alt="Projects View" />
+
+### Backup in Progress
+<img width="800" src="assets/Project Backup Tools 2.png" alt="Backup Progress" />
 
 ### Backup History
-<img width="800" src="https://github.com/user-attachments/assets/placeholder-history-view" alt="History View" />
+<img width="800" src="assets/Project Backup Tools 3.png" alt="History View" />
 
 ---
 
