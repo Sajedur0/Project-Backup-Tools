@@ -17,7 +17,7 @@ class BackupToolHome extends StatefulWidget {
 }
 
 class _BackupToolHomeState extends State<BackupToolHome> {
-  String basePath = r"C:\Users\Zero\AndroidStudioProjects";
+  String basePath = '${Platform.environment['USERPROFILE'] ?? r'C:\Users\Default'}\\AndroidStudioProjects';
   String backupDest = "";
   String status = "Ready — select a project and backup destination.";
   List<ProjectInfo> projects = [];

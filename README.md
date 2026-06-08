@@ -27,7 +27,7 @@
 
 ## How It Works
 
-1. Select your **Projects Folder** (default: `C:\Users\Zero\AndroidStudioProjects`)
+1. Select your **Projects Folder** (default: `%USERPROFILE%\AndroidStudioProjects`)
 2. Choose a **Backup Destination**
 3. Pick a project from the list
 4. Click **Start Backup**
